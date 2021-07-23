@@ -1,2 +1,1 @@
-# exercises
-Coding exercises.
+# coding-exercises
